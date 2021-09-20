@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Averages/app/src/main/res/drawable/icon_add.xml" value="0.3828125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Averages/app/src/main/res/drawable/icon_search.xml" value="0.3828125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Averages/app/src/main/res/drawable/support_addnote_button.xml" value="0.3828125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Averages/app/src/main/res/drawable/support_button.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Averages/app/src/main/res/layout/activity_addnote.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Averages/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Averages/app/src/main/res/layout/activity_update.xml" value="0.176" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Averages/app/src/main/res/layout/card_view.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Averages/app/src/main/res/layout/fragment_addnote.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Averages/app/src/main/res/layout/fragment_editnote.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Averages/app/src/main/res/layout/fragment_notes.xml" value="0.4280701754385965" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Averages/app/src/main/res/layout/fragment_update.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Averages/app/src/main/res/layout/fragment_updatenote.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Averages/app/src/main/res/menu/menu_toolbar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Averages/app/src/main/res/menu/menu_toolbar_main_activity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Averages/app/src/main/res/menu/menu_toolbar_update_activity.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
